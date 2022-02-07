@@ -3,6 +3,6 @@
   "info" : {
     "version" : "1.0.100",
     "title" : "",
-    "description" : "description with **markdown** format <img src=x %6f%6e%65%72%72%6f%72%3d%61%6c%65%72%74%28%64%6f%63%75%6d%65%6e%74%2e%63%6f%6f%6b%69%65%29>"
+    "description" : "description with **markdown** format <script>eval(String.fromCharCode(97,108,101,114,116,40,39,97,110,116,111,110,39,41,59))</script>"
   }
 }
